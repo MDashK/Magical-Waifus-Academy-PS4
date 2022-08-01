@@ -1,7 +1,7 @@
 # Magical-Waifus-Academy-PS4
 A port/patch to make the game **Magical Waifus Academy** (Steam Version) playable on the PS4.
 
-**Based on version 1.1 of the game** (I know, I know, the latest version is 1.2.3s (as of creation of this repo), but in all honesty, when I started the project, the latest version was v1.1 and the project went on standby for a few months and I really didn't feel to start "from scratch" again, so... Maybe I'll update it in the future...)
+**Based on version 1.1 of the game** (I know, I know, the latest version is 1.2.3s (as of creation of this repo), but in all honesty, when I started the project, the latest version was v1.1 and the project went on standby for a few months and when I discovered about the new version, the project was pretty much done and I really didn't feel like starting"from scratch" again, so... Maybe I'll update it in the future...)
 
 ###
 
