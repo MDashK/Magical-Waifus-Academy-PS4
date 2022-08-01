@@ -10,6 +10,8 @@ A port/patch to make the game **Magical Waifus Academy** (Steam Version) playabl
 
 To be able to use the provided patch and actually play the game in your PS4, **you need to legally buy the game on the Steam platform**.
 
+**WARNING:** This is a NSFW game, so only +18 allowed.
+
 You can buy a copy here: [https://store.steampowered.com/app/1508170/Magical_Waifus_Academy/](https://store.steampowered.com/app/1508170/Magical_Waifus_Academy/)
 
 ## Instructions
